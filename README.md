@@ -1,0 +1,7 @@
+- 👋 Hi, I’m Manish
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning dotnet
+- 💞️ I’m looking to collaborate on nothing
+- 📫 How to reach me manish.pali@heureuxsoftware.com
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: Ai will take over one day
